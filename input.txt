@@ -1,0 +1,8 @@
+7
+w forward
+a moveleft
+s back
+d moveright
+mouse1 attack
+mouse2 attack2
+e use
