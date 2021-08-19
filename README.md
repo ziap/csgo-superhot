@@ -13,7 +13,7 @@ My own implementation of Superhot time control. Better than other similar mods b
 ## Installation:
 
  - Download [superhot.cfg](superhot.cfg) and put it in your config folder.
- - In-game: use the command exec superhot to activate the mod and reset_binds to deactivate the mod.
+ - In-game: use the command `exec superhot` to activate the mod and `reset_binds` to deactivate the mod.
  - You can restart the game after deactivation and play online normally. 
 
 ## Notes:
